@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "@babel/env"
+  ], //presets必须是array或者undifined
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-transform-runtime"
+  ]
+}
